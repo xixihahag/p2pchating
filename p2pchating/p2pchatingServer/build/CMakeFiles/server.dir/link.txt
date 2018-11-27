@@ -1,0 +1,1 @@
+g++      CMakeFiles/server.dir/Server.cc.o  -o server source/libsource.a -lpthread 

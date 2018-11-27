@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsource.a  CMakeFiles/source.dir/Strecho.cc.o CMakeFiles/source.dir/Unp.cc.o CMakeFiles/source.dir/User.cc.o
+/usr/bin/ranlib libsource.a

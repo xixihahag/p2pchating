@@ -1,0 +1,6 @@
+/home/bblack/workspace/testqt/p2pchatingServer/build/CMakeFiles/edit_cache.dir
+/home/bblack/workspace/testqt/p2pchatingServer/build/CMakeFiles/rebuild_cache.dir
+/home/bblack/workspace/testqt/p2pchatingServer/build/CMakeFiles/server.dir
+/home/bblack/workspace/testqt/p2pchatingServer/build/source/CMakeFiles/edit_cache.dir
+/home/bblack/workspace/testqt/p2pchatingServer/build/source/CMakeFiles/rebuild_cache.dir
+/home/bblack/workspace/testqt/p2pchatingServer/build/source/CMakeFiles/source.dir

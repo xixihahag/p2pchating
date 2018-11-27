@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.5)
+include_directories(include)
+set(DIR_SOURCE_SRCS Strecho.cc Unp.cc User.cc)
+link_libraries(pthread)
+add_library(source ${DIR_SOURCE_SRCS})
